@@ -1,6 +1,6 @@
 cask "unmouse" do
-  version "0.2.0"
-  sha256 "c37fedde2b1ad4902a5eabbff85b5be7e3a80ddd64af026ed37ab918fe3b8120"
+  version "0.3.0"
+  sha256 "9eb1b5dbfe14855ac7374a73e8b93515a24345a7a73581a2f7633aa80220740a"
 
   url "https://github.com/gincheong/Unmouse/releases/download/v#{version}/Unmouse.zip"
   name "Unmouse"
