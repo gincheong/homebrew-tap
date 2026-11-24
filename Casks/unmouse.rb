@@ -22,7 +22,8 @@ cask "unmouse" do
 
   caveats <<~EOS
     Unmouse is ad-hoc signed, so its signature changes with every release.
-    After each install or upgrade, turn Unmouse off and on again in
-    System Settings > Privacy & Security > Accessibility.
+    After each upgrade, remove Unmouse from the list in
+    System Settings > Privacy & Security > Accessibility and add it again.
+    Turning it off and on is not enough.
   EOS
 end
